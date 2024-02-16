@@ -74,8 +74,3 @@ This project was inspired by research in the field of computer vision and natura
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or inquiries, please contact via email.  
-
-Feel free to contribute to this project by submitting pull requests or opening issues.
